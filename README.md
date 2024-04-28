@@ -1,7 +1,7 @@
 ## Introduction
 In this project, we used history chat content of three different alliances obtained directly from strategy game Nova Empire II to reveal the topic duration via factors analysis of participator, content, and social network for social system applications.
 
-## Installation
+## Requirements
 
 Install dependency in a Python>=3.7.0 environment
 
@@ -24,6 +24,8 @@ Due to the data security, privacy protection and intellectual property rights, w
 
 ## Contact
 Be sure to let us know when you use the project for academic researches and commercial purposes.
-E-mail: zhangguoshuai@xidian.edu.cn
+
+Guoshuai Zhang, School of Electronic Engineering, Xidian University (E-mail: zhangguoshuai@xidian.edu.cn)
+
 
 Copyright © 2024, Guoshuai Zhang. All Rights Reserved.
